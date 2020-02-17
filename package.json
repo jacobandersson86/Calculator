@@ -1,0 +1,27 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobandersson86/Calculator.git"
+  },
+  "keywords": [
+    "Calculator",
+    "Education",
+    "Electron"
+  ],
+  "author": "Jacob Andersson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobandersson86/Calculator/issues"
+  },
+  "homepage": "https://github.com/jacobandersson86/Calculator#readme",
+  "dependencies": {
+    "electron": "^8.0.1"
+  }
+}
