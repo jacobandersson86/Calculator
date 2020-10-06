@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/jacobandersson86/Calculator#readme",
   "dependencies": {
-    "electron": "^8.0.1"
+    "electron": "^8.5.2"
   }
 }
